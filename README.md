@@ -1,6 +1,7 @@
 # 🚖 Urban Routes — End-to-End Test Automation (Selenium + Pytest + POM)
 
 This project implements a **complete end-to-end UI testing framework** for a web-based taxi booking application using **Selenium WebDriver**, **Pytest**, and the **Page Object Model (POM)** design pattern.  
+
 It validates the entire flow of ordering a taxi — from entering pickup and drop-off addresses to verifying the car search modal.
 
 ## 🧩 Key Features
